@@ -3,7 +3,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-``` javascript
-var myVar = "Hello, world!";
-```
+- [ ] Checklist item example
 
+```javascript
+var myVar = "Hello, world!";
